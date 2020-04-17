@@ -19,8 +19,8 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 --------------------------------------------------------------------------------
 64            0x40            LZMA comp... 32754 bytes
 5953          0x1741          LZMA comp... 32751 bytes
-...			  0x...			  LZMA comp... ..... bytes
-...			  0x...			  LZMA comp... ..... bytes
+...           0x...           LZMA comp... ..... bytes
+...           0x...           LZMA comp... ..... bytes
 456940        0x6F8EC         LZMA comp... 32761 bytes
 463281        0x711B1         LZMA comp... 14040 bytes
 
